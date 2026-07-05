@@ -5,3 +5,4 @@ ml/models/
 *.pkl
 data/raw/
 node_modules/
+.env
