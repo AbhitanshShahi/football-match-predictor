@@ -4,9 +4,9 @@
 
 ## 🔗 Live Links
 
-* Frontend: *[add deployment link]*
-* Backend API: *[add API link]*
-* Model (Hugging Face): *[add HF model link]*
+* Frontend: *https://football-match-predictor-ivory.vercel.app/*
+* Backend API: *https://football-match-predictor-fge5.onrender.com/*
+* Model (Hugging Face): *https://huggingface.co/abhitanshshahi/football-match-predictor-xgboost/resolve/main/xgboost_model.joblib*
 
 ---
 
