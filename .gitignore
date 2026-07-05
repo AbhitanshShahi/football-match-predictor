@@ -4,5 +4,4 @@ ml/models/
 *.joblib
 *.pkl
 data/raw/
-data/processed/merged_dataset.csv
 node_modules/
